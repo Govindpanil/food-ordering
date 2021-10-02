@@ -1,0 +1,93 @@
+[
+  {
+    "id": "15d21f4e-896e-47a3-92b9-643ff64a002d",
+    "data": [
+      {
+        "text": "ladoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3597e4e-96fc-41ed-9a41-86f75382548b",
+    "data": [
+      {
+        "text": "jalebi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23a6902a-aeef-4a57-8a7a-5e1d02152cda",
+    "data": [
+      {
+        "text": "egg pups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f22f381c-d228-4976-98d1-785424b27d82",
+    "data": [
+      {
+        "text": "pups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdaa4d65-bf72-4fd6-b1a5-2861a808bd59",
+    "data": [
+      {
+        "text": "cup cake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe32bc81-2aa0-4074-a81f-a030289b6ff1",
+    "data": [
+      {
+        "text": "cake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58551a38-a38f-4794-8a03-954cb5d80922",
+    "data": [
+      {
+        "text": "mixture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
